@@ -1,31 +1,99 @@
-# Olá, me chamo Pedro Henrique ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá! Eu sou Pedro Henrique 👋
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+### Desenvolvedor Full Stack | PHP • Laravel • Vue.js • PostgreSQL
 
-## Estou aprendendo
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
+💻 Experiência profissional com desenvolvimento de aplicações web  
+🤖 Atualmente atuo como Educador Maker, trabalhando com programação, robótica e tecnologia educacional.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+---
 
-<div>
-<a href="https://github.com/PedroHoSantos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHoSantos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHoSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## 👨‍💻 Sobre mim
+
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento e
+manutenção de aplicações web, principalmente utilizando PHP,
+Laravel, Vue.js e PostgreSQL.
+
+Ao longo da minha trajetória também desenvolvi projetos envolvendo
+programação, robótica e tecnologia, trabalhando atualmente como
+Educador Maker com jovens de 7 a 16 anos.
+
+Tenho interesse em desenvolvimento de software, arquitetura de
+aplicações, APIs, bancos de dados e criação de soluções que resolvam
+problemas reais.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento
+Full Stack e buscando novos desafios profissionais na área de tecnologia.
+
+---
+
+## 🛠️ Tecnologias
+
+### Backend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
+
+### Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
+
+### Banco de Dados
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+
+### Ferramentas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
+
+---
+
+## 🤖 Tecnologia e Maker
+
+Atualmente também trabalho com:
+
+- Arduino
+- Micro:bit
+- LEGO Mindstorms EV3
+- Scratch
+- Robótica
+- Modelagem 3D
+- Fabricação digital
+- Pensamento computacional
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHoSantos&layout=compact&langs_count=8&theme=dracula"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHoSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
 
-## Contatos:
+---
 
-<div>
-<a href="https://www.instagram.com/pedro_henriques18/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:pedrohsantos1811@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-oliveira-santos-6698a2246/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:pedrohsantos1811@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/pedro-henrique-oliveira-santos-6698a2246/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
