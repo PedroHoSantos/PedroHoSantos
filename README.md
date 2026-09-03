@@ -1,4 +1,5 @@
-# Olá! Eu sou Pedro Henrique 👋
+# Olá! Meu nome é Pedro Henrique, seja bem-vindo 👋
+
 
 ### Desenvolvedor Full Stack | PHP • Laravel • Vue.js • PostgreSQL
 
@@ -10,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Full Stack com experiência no desenvolvimento e
+Sou um Desenvolvedor Full Stack com experiência no desenvolvimento e
 manutenção de aplicações web, principalmente utilizando PHP,
 Laravel, Vue.js e PostgreSQL.
 
@@ -31,30 +32,39 @@ Full Stack e buscando novos desafios profissionais na área de tecnologia.
 
 ### Backend
 
+
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
+</div>
 
 ### Frontend
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
+</div>
 
 ### Banco de Dados
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+</div>
 
 ### Ferramentas
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
+</div>
 
 ---
 
