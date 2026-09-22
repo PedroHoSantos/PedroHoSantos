@@ -1,34 +1,27 @@
 # Olá! Meu nome é Pedro Henrique, seja bem-vindo 👋
 
 
-### Desenvolvedor Full Stack | PHP • Laravel • Vue.js • PostgreSQL
+### Desenvolvedor Full Stack Júnior
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
-💻 Experiência profissional com desenvolvimento de aplicações web  
-🤖 Atualmente atuo como Educador Maker, trabalhando com programação, robótica e tecnologia educacional.
+Sou um desenvolvedor Full Stack com experiência no desenvolvimento e manutenção de aplicações web em produção.
 
----
+Minha experiência profissional envolve principalmente PHP, Laravel, Vue.js, PostgreSQL, APIs REST, Git e Docker, atuando na integração entre frontend, backend e banco de dados.
 
-## 👨‍💻 Sobre mim
-
-Sou um Desenvolvedor Full Stack com experiência no desenvolvimento e
-manutenção de aplicações web, principalmente utilizando PHP,
-Laravel, Vue.js e PostgreSQL.
-
-Ao longo da minha trajetória também desenvolvi projetos envolvendo
-programação, robótica e tecnologia, trabalhando atualmente como
-Educador Maker com jovens de 7 a 16 anos.
-
-Tenho interesse em desenvolvimento de software, arquitetura de
-aplicações, APIs, bancos de dados e criação de soluções que resolvam
-problemas reais.
-
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento
-Full Stack e buscando novos desafios profissionais na área de tecnologia.
+Também desenvolvo projetos próprios utilizando TypeScript, Inertia.js, Tailwind CSS e React, buscando ampliar continuamente minha atuação em diferentes tecnologias e stacks.
 
 ---
 
-## 🛠️ Tecnologias
+## Sobre Mim
+- Experiência profissional com desenvolvimento de aplicações web em produção
+- Experiência com backend, frontend, APIs REST e bancos de dados
+- Experiência com PostgreSQL, MySQL e SQL Server
+- Utilização de Docker, Git e Linux no desenvolvimento
+- Interesse em arquitetura, boas práticas e resolução de problemas
+- Atualmente ampliando meus conhecimentos em diferentes tecnologias do ecossistema Full Stack
+
+---
+
+## Tecnologias
 
 ### Backend
 
@@ -37,8 +30,6 @@ Full Stack e buscando novos desafios profissionais na área de tecnologia.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
 </div>
 
 ### Frontend
@@ -46,7 +37,6 @@ Full Stack e buscando novos desafios profissionais na área de tecnologia.
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
 </div>
@@ -56,34 +46,50 @@ Full Stack e buscando novos desafios profissionais na área de tecnologia.
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40"/>
 </div>
 
-### Ferramentas
+### Ferramentas e Cloud
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/>
 </div>
 
 ---
 
-## 🤖 Tecnologia e Maker
+## Projetos em Destaque
 
-Atualmente também trabalho com:
+### Personal Finance Manager
 
-- Arduino
-- Micro:bit
-- LEGO Mindstorms EV3
-- Scratch
-- Robótica
-- Modelagem 3D
-- Fabricação digital
-- Pensamento computacional
+Aplicação Full Stack para gerenciamento financeiro pessoal.
+
+Tecnologias: Laravel • Vue 3 • TypeScript • Inertia.js • Tailwind CSS • PostgreSQL • Docker
+
+Projeto principal do meu portfólio, desenvolvido com foco em arquitetura organizada, autenticação, autorização, regras de negócio e boas práticas de desenvolvimento.
+
+
+
+### Clone TabNews
+
+Projeto desenvolvido como parte de estudos práticos de desenvolvimento web, explorando conceitos de frontend, backend e construção de aplicações.
 
 ---
 
-## 📫 Contato
+## Atualmente Estudando
+- TypeScript
+- React
+- Node.js
+- Testes de software
+- CI/CD
+- Cloud e infraestrutura
+
+---
+
+## Contato
 
 <div align="center">
 
